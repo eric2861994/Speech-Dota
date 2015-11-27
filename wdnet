@@ -1,0 +1,118 @@
+VERSION=1.0
+N=44   L=72   
+I=0    W=!NULL               
+I=1    W=!NULL               
+I=2    W=SENT-START          
+I=3    W=ACTIVATE            
+I=4    W=GLYPH               
+I=5    W=!NULL               
+I=6    W=PICK                
+I=7    W=BANE                
+I=8    W=CHEN                
+I=9    W=WRAITH              
+I=10   W=KING                
+I=11   W=DOOM                
+I=12   W=TINY                
+I=13   W=SLARDAR             
+I=14   W=TUSK                
+I=15   W=WINDRANGER          
+I=16   W=MEEPO               
+I=17   W=EARTHSHAKER         
+I=18   W=UNDYING             
+I=19   W=TECHIES             
+I=20   W=BUY                 
+I=21   W=CLARITY             
+I=22   W=BOTTLE              
+I=23   W=BRANCH              
+I=24   W=SMOKE               
+I=25   W=SENTRY              
+I=26   W=OBS                 
+I=27   W=BOOTS               
+I=28   W=MAGIC               
+I=29   W=STICK               
+I=30   W=SALVE               
+I=31   W=GLOVE               
+I=32   W=DUST                
+I=33   W=GEM                 
+I=34   W=TELEPORT            
+I=35   W=TOP                 
+I=36   W=!NULL               
+I=37   W=MID                 
+I=38   W=BOTTOM              
+I=39   W=TOWER               
+I=40   W=ONE                 
+I=41   W=TWO                 
+I=42   W=THREE               
+I=43   W=SENT-END            
+J=0     S=43   E=1    
+J=1     S=0    E=2    
+J=2     S=2    E=3    
+J=3     S=3    E=4    
+J=4     S=4    E=5    
+J=5     S=7    E=5    
+J=6     S=8    E=5    
+J=7     S=10   E=5    
+J=8     S=11   E=5    
+J=9     S=12   E=5    
+J=10    S=13   E=5    
+J=11    S=14   E=5    
+J=12    S=15   E=5    
+J=13    S=16   E=5    
+J=14    S=17   E=5    
+J=15    S=18   E=5    
+J=16    S=19   E=5    
+J=17    S=21   E=5    
+J=18    S=22   E=5    
+J=19    S=23   E=5    
+J=20    S=24   E=5    
+J=21    S=25   E=5    
+J=22    S=26   E=5    
+J=23    S=27   E=5    
+J=24    S=29   E=5    
+J=25    S=30   E=5    
+J=26    S=31   E=5    
+J=27    S=32   E=5    
+J=28    S=33   E=5    
+J=29    S=40   E=5    
+J=30    S=41   E=5    
+J=31    S=42   E=5    
+J=32    S=2    E=6    
+J=33    S=6    E=7    
+J=34    S=6    E=8    
+J=35    S=6    E=9    
+J=36    S=9    E=10   
+J=37    S=6    E=11   
+J=38    S=6    E=12   
+J=39    S=6    E=13   
+J=40    S=6    E=14   
+J=41    S=6    E=15   
+J=42    S=6    E=16   
+J=43    S=6    E=17   
+J=44    S=6    E=18   
+J=45    S=6    E=19   
+J=46    S=2    E=20   
+J=47    S=20   E=21   
+J=48    S=20   E=22   
+J=49    S=20   E=23   
+J=50    S=20   E=24   
+J=51    S=20   E=25   
+J=52    S=20   E=26   
+J=53    S=20   E=27   
+J=54    S=20   E=28   
+J=55    S=28   E=29   
+J=56    S=20   E=30   
+J=57    S=20   E=31   
+J=58    S=20   E=32   
+J=59    S=20   E=33   
+J=60    S=2    E=34   
+J=61    S=34   E=35   
+J=62    S=35   E=36   
+J=63    S=37   E=36   
+J=64    S=38   E=36   
+J=65    S=34   E=37   
+J=66    S=34   E=38   
+J=67    S=36   E=39   
+J=68    S=39   E=40   
+J=69    S=39   E=41   
+J=70    S=39   E=42   
+J=71    S=5    E=43   

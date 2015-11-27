@@ -1,0 +1,8 @@
+$heroes = BANE | CHEN | WRAITH KING | DOOM | TINY | SLARDAR | TUSK | WINDRANGER | 
+          MEEPO | EARTHSHAKER | UNDYING | TECHIES;
+$items = CLARITY | BOTTLE | BRANCH | SMOKE | SENTRY | OBS | BOOTS | MAGIC STICK |
+         SALVE | GLOVE | DUST | GEM;
+$tower_number = ONE | TWO | THREE;
+$tower_lane = TOP | MID | BOTTOM;
+( SENT-START ( ACTIVATE GLYPH | PICK $heroes | BUY $items |
+               TELEPORT $tower_lane TOWER $tower_number ) SENT-END )
