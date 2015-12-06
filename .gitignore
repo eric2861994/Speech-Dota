@@ -2,3 +2,4 @@ loadPath.bat
 
 waves/eric/*.py
 waves/train/
+waves/test/
